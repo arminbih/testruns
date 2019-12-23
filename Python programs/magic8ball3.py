@@ -9,5 +9,5 @@ messages = ['It is certain',
 'Outlook not so good',
 'Very doubtful']
 #print (messages[random.randint(0,9)]) #opcija 1
-print (len(messages))
-print (messages[random.randint(0, len(messages) -1)]) #opcija 2
+#print (len(messages))
+print (messages[random.randint(0, len(messages)-1)]) #opcija 2
