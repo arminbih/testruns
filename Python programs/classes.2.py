@@ -6,3 +6,5 @@ class Person:
 
 john = Person("John Smith")
 john.talk()
+
+print 
